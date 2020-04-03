@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "lib": ["dom", "Es5", "ES2015", "ES2016"]
+    },
+    "files": [
+        "main.ts"
+    ]
+}
